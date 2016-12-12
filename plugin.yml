@@ -1,0 +1,4 @@
+name: SpigotBlankPlugin
+main: me.steelbeam.kinectmc.SpigotBlankPlugin
+version: 1.0
+commands:
